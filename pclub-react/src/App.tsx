@@ -6,7 +6,9 @@ export default function App() {
     return (
         <div>
             <Particles params={particlesConfig} />
-            <h1 style={{ color: '#c5c6c7' }}>BOV Programming Club</h1>
+            <h1 style={{ color: '#c5c6c7', position: 'absolute' }}>
+                BOV Programming Club
+            </h1>
         </div>
     );
 }
