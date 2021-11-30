@@ -8,7 +8,9 @@ export default function App() {
         <div className="container">
             <Particles params={particlesConfig} className="app-particles" />
             <div className="textOverlay">
-                <p className="bovText">BOV Programming Club</p>
+                <p className="bovText">
+                    <strong>BOV Programming Club</strong>
+                </p>
                 <p className="bovSubtext">
                     The best place to learn programming and talk with others
                     about your cool new programs!
