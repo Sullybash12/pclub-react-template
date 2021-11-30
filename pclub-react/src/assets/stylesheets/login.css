@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.container {
+    /* setup flex box */
+    display: flex;
+    /* horizontal align center */
+    justify-content: center;
+    /* vertical align center */
+    align-items: center;
+
+    /* some color */
+    background: tomato;
+
+    /* some height */
+    height: 100vh;
+}
+
+.login_box {
+    width: 50%;
+    min-width: 250px;
+    height: 40%;
+    background: aqua;
+}

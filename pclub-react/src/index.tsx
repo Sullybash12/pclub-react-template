@@ -1,7 +1,8 @@
 import * as React from 'react';
 import { render } from 'react-dom';
 
-import App from './App';
+import Home from './pages/home';
+import Login from './pages/login';
 
 const rootElement = document.getElementById('root');
-render(<App />, rootElement);
+render(<Login />, rootElement);
