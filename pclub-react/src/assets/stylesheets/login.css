@@ -11,7 +11,7 @@
     align-items: center;
 
     /* some color */
-    background: tomato;
+    background: black;
 
     /* some height */
     height: 100vh;
@@ -21,5 +21,5 @@
     width: 50%;
     min-width: 250px;
     height: 40%;
-    background: aqua;
+    background: #66fcf1;
 }
