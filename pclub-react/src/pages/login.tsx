@@ -7,7 +7,9 @@ export default function Login() {
     return (
         <div className="container">
             <div className="login_box">
-                <p style={{ margin: 0 }}>Hello my name is jeff</p>
+                <p style={{ margin: 25, fontSize: 50, color: 'white' }}>
+                    Hello my name is jeff
+                </p>
             </div>
         </div>
     );
